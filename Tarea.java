@@ -114,7 +114,6 @@ public class Tarea {
                     }
                 }
                 JOptionPane.showMessageDialog(null, String.valueOf(resultado));
-                System.out.println("");
             }
         });
 	}

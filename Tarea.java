@@ -8,5 +8,8 @@ public class Tarea {
         String Codigo1 = entrada.nextLine();
         System.out.println("Ingresa el segundo codigo: ");
         String Codigo2 = entrada.nextLine();
+
+        char[] C1 = Codigo1.toCharArray();
+        char[] C2 = Codigo2.toCharArray();
 	}
 }
